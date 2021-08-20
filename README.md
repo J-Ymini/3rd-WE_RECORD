@@ -29,22 +29,15 @@
 ### Frontend
 
 - **React function component, React Hooks** 사용을 통한 컴포넌트 관리
+
 - **styled-component** 사용을 통한 스타일링
+
 - **관련 라이브러리 사용 경험** 쌓기
+
 - **AWS** 사용을 통한 사이트 배포
-
-<br>
-
-### Backend
-
-- **django** 사용을 통한 DB 관리
-- **AWS** 사용을 통한 사이트 배포
-
-<br>
-
-### 공통
 
 - 백엔드-프론트엔드 커뮤니케이션 및 통신으로 **협업 경험 쌓기**
+
 - 배포 이후 bug fix 및 지속적인 유지 및 보수
 
 <br>
